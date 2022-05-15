@@ -1,0 +1,5 @@
+C:\Users\Ekin\Desktop\aaaaaaaaaaaaa\Eight Queens.exe
+C:\Users\Ekin\Desktop\aaaaaaaaaaaaa\Eight Queens.dll
+C:\Users\Ekin\Desktop\aaaaaaaaaaaaa\Eight Queens.deps.json
+C:\Users\Ekin\Desktop\aaaaaaaaaaaaa\Eight Queens.runtimeconfig.json
+C:\Users\Ekin\Desktop\aaaaaaaaaaaaa\Eight Queens.pdb
